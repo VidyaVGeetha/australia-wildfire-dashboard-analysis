@@ -46,7 +46,9 @@ These visualizations help identify:
 - Seasonal patterns  
 - Region-specific wildfire intensity  
 
----
+---_______________________________________________________
+
+
 
 ## 🧠 What the Application Demonstrates
 
@@ -116,6 +118,15 @@ Data visualization
 Dashboard development
 Interactive analytics using Python
 _______________________________________
+## 🎥 Dashboard Demo Video
+
+The video below demonstrates how the **Australia Wildfire Dashboard** works, including:
+- Selecting regions and years
+- Interactive pie and bar charts
+- Dynamic data filtering using Dash callbacks
+
+[▶️ Watch the Dashboard Demo](./wildfire_dashboard_demo.mp4)
+
 ## ✍️ Author Note
 
 This project was developed by **Vidya V. Geetha**, an aspiring **Data Analyst** passionate about transforming raw datasets into meaningful and actionable insights.  
